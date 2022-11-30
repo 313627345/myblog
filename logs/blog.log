@@ -1,0 +1,32 @@
+INFO 2022-11-30 09:51:04,367 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 09:54:02,832 autoreload 203 /Users/dong/Desktop/myblog/myblog/settings.py changed, reloading.
+INFO 2022-11-30 09:54:03,224 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:09:45,496 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:09:56,441 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:10:05,109 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:15:52,375 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:16:55,428 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:17:20,565 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:17:27,295 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:19:08,973 autoreload 203 /Users/dong/Desktop/myblog/myblog/settings.py changed, reloading.
+INFO 2022-11-30 10:19:09,418 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:19:12,167 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:34:45,191 autoreload 578 Watching for file changes with StatReloader
+INFO 2022-11-30 10:34:49,058 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:02,060 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:02,069 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-11-30 10:55:02,076 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2022-11-30 10:55:02,076 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2022-11-30 10:55:02,077 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2022-11-30 10:55:02,974 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:03,207 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:03,424 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:03,635 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:03,838 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:04,055 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:04,273 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:04,472 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:04,684 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:04,892 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:05,095 basehttp 154 "GET / HTTP/1.1" 200 16286
+INFO 2022-11-30 10:55:05,328 basehttp 154 "GET / HTTP/1.1" 200 16286
